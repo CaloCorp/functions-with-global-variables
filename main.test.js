@@ -19,7 +19,7 @@ function beingNice (){greeting= greeting + ' ' +firstName + ' you sexy beast!'}
 beingNice()
 greeting;
 
-function fullname () {firstName= 'not found'
+function fullName () {firstName= 'not found'
 }
 function phoneCall() {calling='call ended'}
 
