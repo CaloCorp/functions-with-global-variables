@@ -2,6 +2,28 @@
  * YOUR CODE GOES HERE THIS TIME! *
  **********************************/
 
+let x=3 
+let y=10 
+
+squareTheNumber=4 
+greeting='hello'
+firstName='Marc'
+calling='ringing'
+
+function double(){x= x *2}
+function triple(){y=y*3}
+function square(){
+  squareTheNumber= squareTheNumber**2}
+function beingNice (){greeting= greeting + ' ' +firstName + ' you sexy beast!'}
+
+beingNice()
+greeting;
+
+function fullname () {firstName= 'not found'
+}
+function phoneCall() {calling='call ended'}
+
+
 
 
 
